@@ -1,0 +1,39 @@
+body{
+	background-color: lightgrey;
+}
+
+h3{
+	font-size: 80px; 
+	color:orange;
+}
+h2{
+	font-size: 30px;
+	 color: blue;
+
+}
+
+h1{
+	font-size: 40px;
+	 color: #0BC8D2 ;
+
+}
+.big{
+	font-size: 10px;
+	 color: green ;
+
+}
+.uppercase{
+	text-transform: uppercase;
+
+}
+
+
+.big.uppercase{
+	font-size: 80px;
+	color:purple ;
+
+}
+
+h1 span{
+	color:yellow;
+}
