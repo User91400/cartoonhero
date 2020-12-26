@@ -21,7 +21,7 @@ header h1{
 }
 
 header img{
-	border: 40px solid white;
+	border: 10px solid darkred;
 
 }
 main{
@@ -82,5 +82,5 @@ p.caption{
 	color:#A52A2A;
 	font-style: italic;
 	margin-top: 0;
-	
+
 }
