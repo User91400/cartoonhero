@@ -1,5 +1,6 @@
 body{
-	margin: 0;
+	font-size: 30px;
+	line-height: 50px;
 
 }
 
@@ -26,13 +27,15 @@ header img{
 main{
 	padding-top: 100px;
 	padding-bottom: 100px;
-	
+	background: #A9DFBF;
 	text-align: left;
+
 
 }
 
 main img{
-	max-width:40% ;
+	max-width:60% ;
+
 
 
 
@@ -40,6 +43,44 @@ main img{
 main p{
 	padding-bottom: 350px;
 	margin-top: 50px;
+	
 
+	
+}
+main h2{
+	margin-top: 100px;
+	padding-top: 100px;
+}
+
+main ol{
+	padding-bottom: 100px;
+}
+
+main ul{
+	padding-bottom: 100px;
+
+}
+div {
+	
+
+  	width: 900px;
+	height:900px;
+	padding: 0px;
+	border: 5px solid gray;
+	margin: auto;
+}
+
+a{
+	color: darkgreen;
+}
+
+a:hover{
+	color:orange;
+}
+
+p.caption{
+	color:#A52A2A;
+	font-style: italic;
+	margin-top: 0;
 	
 }
