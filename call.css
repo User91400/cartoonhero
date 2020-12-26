@@ -3,6 +3,7 @@ body{
 	line-height: 50px;
 
 }
+/* header */
 
 header{
     background: -webkit-linear-gradient(70deg, #f0e616 30%, rgba(0,0,0,0) 30%), -webkit-linear-gradient(30deg, #c0dee9 60%, #0167b3 60%);
